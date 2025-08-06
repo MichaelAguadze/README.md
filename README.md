@@ -14,12 +14,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pengzhenghao/pengzhenghao/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👋 Hi, I’m Zhenghao Peng.
-- 👀 Please visit my homepage: https://pengzhenghao.github.io
-- 📫 Feel free to contact me via: pzh AT cs.ucla.edu
+- 👋 Hi, I’m Michael Aguadze.
+- 👀 Please visit my homepage: https://michaelaguadze.github.io
+- 📫 Feel free to contact me via: maguadze@aggies.ncat.edu
 
 <!---
-pengzhenghao/pengzhenghao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+michaelaguadze/michaelaguadze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 --->
